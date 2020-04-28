@@ -1,0 +1,8 @@
+2020-04-26 17:52:28.342 [ main ] - [ INFO  ] [ com.pnt.wechat.Wx1ApplicationTests : 55 ] - Starting Wx1ApplicationTests on LAPTOP-0KIAIGL4 with PID 25268 (started by LXR in D:\lxr\wx\wx)
+2020-04-26 17:52:28.343 [ main ] - [ DEBUG ] [ com.pnt.wechat.Wx1ApplicationTests : 56 ] - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-26 17:52:28.344 [ main ] - [ INFO  ] [ com.pnt.wechat.Wx1ApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-04-26 17:52:29.358 [ main ] - [ INFO  ] [ com.pnt.wechat.Wx1ApplicationTests : 61 ] - Started Wx1ApplicationTests in 1.301 seconds (JVM running for 2.113)
+2020-04-26 17:52:29.577 [ main ] - [ DEBUG ] [ com.pnt.wechat.Wx1ApplicationTests : 28 ] - 这是 debug 级别
+2020-04-26 17:52:29.577 [ main ] - [ INFO  ] [ com.pnt.wechat.Wx1ApplicationTests : 29 ] - 这是 info 级别
+2020-04-26 17:52:29.578 [ main ] - [ WARN  ] [ com.pnt.wechat.Wx1ApplicationTests : 30 ] - 这是 warn 级别
+2020-04-26 17:52:29.578 [ main ] - [ ERROR ] [ com.pnt.wechat.Wx1ApplicationTests : 31 ] - 这是 error 级别
